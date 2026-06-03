@@ -31,8 +31,21 @@ To write a Python program that:
 ---
 
 ## Program
-Add Code Here
-
+```
+queue = []
+queue.append('a')
+queue.append('b')
+queue.append('c')
+print('Queue after elements are inserted:')
+print(queue)
+print('Deleting the first element inserted:')
+print(queue.pop(0))
+print('Queue after the first elements is deleted:')
+print(queue)
+```
 ## Output
+<img width="832" height="246" alt="image" src="https://github.com/user-attachments/assets/49e0a9a4-d403-49e6-9665-2dbee8e6cec6" />
 
 ## Result
+The program is excuted and verified.
+
